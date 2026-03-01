@@ -1,0 +1,15 @@
+.venv/
+venv/
+env/
+bin/
+lib/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.ipynb_checkpoints
+.DS_Store
+
+.vscode/
+.idea/
